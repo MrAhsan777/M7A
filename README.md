@@ -11,7 +11,7 @@ I am a passionate AI engineering student with a strong background in Python. My 
 - **Version Control:** Git
 
 ## 📚 Education
-- Bachelor of Science in AI Engineering, [Your University], [2023] - Present
+- Bachelor of Science in AI Engineering, [Quaid-e-Awam University of Engineering, Sciences & Technology], [2023] - Present
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
