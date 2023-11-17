@@ -14,7 +14,7 @@ I am a passionate AI engineering student with a strong background in Python. My 
 - Bachelor of Science in AI Engineering, [Quaid-e-Awam University of Engineering, Sciences & Technology], [2023] - Present
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+- [LinkedIn](https://www.linkedin.com/in/ahsanarain777/)
 - [Twitter](https://twitter.com/AhsanAr92118605)
 - [Portfolio Website](https://www.yourwebsite.com)
 
