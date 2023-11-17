@@ -15,7 +15,7 @@ I am a passionate AI engineering student with a strong background in Python. My 
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- [Twitter](https://twitter.com/yourtwitterhandle)
+- [Twitter](https://twitter.com/AhsanAr92118605)
 - [Portfolio Website](https://www.yourwebsite.com)
 
 ## 🛠️ Projects
