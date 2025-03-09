@@ -14,6 +14,10 @@ I am a passionate AI engineering student with a strong background in Python. My 
 ## 📚 Education
 - Bachelor of Science in AI Engineering, [Quaid-e-Awam University of Engineering, Sciences & Technology], [2023] - Present
 
+- History AI Editor using tools like Claude, ChatGPT, and DeepSeek for text; Eleven Labs for audio; Leonardo, DALL·E, and MidJourney for image generation; Runway for motion and video generation; and CapCut and Canva for editing.Checkout our channel below where you see our work 😊:
+ 
+* [History with AI - @Raufjatoi and Me](https://www.youtube.com/@History_With_Ai-1)
+
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ahsanarain777/)
 - [Twitter](https://twitter.com/AhsanAr92118605)
